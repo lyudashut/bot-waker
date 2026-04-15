@@ -1,0 +1,2 @@
+# Bot Waker
+Тестовий файл, щоб активувати GitHub Actions cron.
